@@ -62,9 +62,9 @@ When prompted, provide:
 ![Sample Input](image/origanl.jpeg)
 
 ### MPI Blurred Output
-![Sample Input]()
+![Sample Input](image/mpi_blurred_image.png)
 
-### Performance Comparison Plot
+### Comparison Plot
 ![Sample Input]()
 
 ### ### Performance Comparison Plot
