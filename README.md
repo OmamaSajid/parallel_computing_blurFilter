@@ -57,4 +57,4 @@ Blur radius (positive integer)
 
 🖼️ Results and Visualization
 Sample Input Image
- ![Image Alt](image_url).
+ ![Image Alt](https://github.com/OmamaSajid/parallel_computing_blurFilter/blob/0ad2c2eeb5a602c94ece1f0c5d7f8589094c64a6/image/origanl.jpeg).
