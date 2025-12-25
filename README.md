@@ -65,7 +65,7 @@ When prompted, provide:
 ![Sample Input](image/mpi_blurred_image.png)
 
 ### Comparison Plot
-![Sample Input]()
+![Sample Input](image/original_vs_blurred.png)
 
 ### ### Performance Comparison Plot
 ![Sample Input]()
