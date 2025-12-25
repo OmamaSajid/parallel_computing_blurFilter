@@ -1,5 +1,5 @@
 
-# Parallel Image Blurring using MPI (Python)
+# Parallel Image Blurring using MPI
 
 This project implements a **parallel image blur filter** using **MPI (Message Passing Interface)** in Python.  
 The input image is divided into overlapping chunks, processed in parallel by multiple MPI processes, and then combined to produce the final blurred image.
@@ -68,7 +68,7 @@ When prompted, provide:
 ![Sample Input](image/original_vs_blurred.png)
 
 ### ### Performance Comparison Plot
-![Sample Input]()
+![Sample Input](image/timing_graph.png)
 
 ### Expected Outputs:
 1. **Serial Blurred Image** - Processed using single-core execution
