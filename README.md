@@ -67,7 +67,7 @@ When prompted, provide:
 ### Comparison Plot
 ![Sample Input](image/original_vs_blurred.png)
 
-### ### Performance Comparison Plot
+### Performance Comparison Plot
 ![Sample Input](image/timing_graph.png)
 
 ### Expected Outputs:
