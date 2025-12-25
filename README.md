@@ -61,19 +61,24 @@ When prompted, provide:
 ### Sample Input Image
 ![Sample Input](image/origanl.jpeg)
 
-*Note: If the image above doesn't display, you can view it directly [here](https://github.com/OmamaSajid/parallel_computing_blurFilter/blob/main/image/origanl.jpeg)*
+### MPI Blurred Output
+![Sample Input]()
+
+### Performance Comparison Plot
+![Sample Input]()
+
+### ### Performance Comparison Plot
+![Sample Input]()
 
 ### Expected Outputs:
 1. **Serial Blurred Image** - Processed using single-core execution
 2. **Parallel Blurred Image** - Processed using MPI parallel processing
 3. **Performance Comparison Plot** - Visual comparison of execution times
-4. **Timing Results** - Text file with detailed execution time data
+4. **Chunks** - Individual MPI processed chunks
+
 
 ## 📈 Performance Comparison
-The project automatically generates:
-- Execution time comparison between serial and parallel implementations
-- Speedup calculation: `Speedup = Serial Time / Parallel Time`
-- Visualization of timing results using matplotlib
+The results show that MPI-based parallel processing significantly reduces execution time compared to serial processing, especially for larger images and higher blur radii.
 
 ## 🔧 Customization
 You can modify the following parameters in the code:
@@ -89,24 +94,8 @@ Feel free to fork this repository and submit pull requests for:
 - Code improvements
 - Documentation enhancements
 
-## 📄 License
-This project is open-source and available under the MIT License.
-
 ## 👥 Author
 **Omama Sajid**  
 GitHub: [OmamaSajid](https://github.com/OmamaSajid)
 
----
-
-*Last Updated: December 2024*
-```
-
-**Key fixes applied:**
-1. Properly formatted headings with consistent markdown syntax
-2. Fixed the code block formatting with proper triple backticks
-3. Corrected the image URL formatting
-4. Added alternative text and direct link for the image
-5. Improved project structure visualization with tree format
-6. Added missing sections (License, Author, Contributing)
-7. Fixed typos and improved readability
-8. Added proper section organization with emoji icons for visual clarity
+## Enjoyyyy Y'all :)
