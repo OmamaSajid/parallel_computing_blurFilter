@@ -1,6 +1,4 @@
-Here's the properly formatted README with headings, formatting, and fixed image issues:
 
-```markdown
 # Parallel Image Blurring using MPI (Python)
 
 This project implements a **parallel image blur filter** using **MPI (Message Passing Interface)** in Python.  
@@ -61,7 +59,7 @@ When prompted, provide:
 ## 📊 Results and Visualization
 
 ### Sample Input Image
-![Sample Input](https://github.com/OmamaSajid/parallel_computing_blurFilter/blob/main/image/origanl.jpeg)
+![Sample Input](image/origanl.jpeg)
 
 *Note: If the image above doesn't display, you can view it directly [here](https://github.com/OmamaSajid/parallel_computing_blurFilter/blob/main/image/origanl.jpeg)*
 
